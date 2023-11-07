@@ -736,6 +736,17 @@
   border-color: var(--green);
 }
 
+.home .group-13:hover {
+  position: relative;
+  position: relative;
+  width: 160px;
+  height: 54px;
+  border-radius: 50px;
+  color: white;
+  background-color: #03d182;
+  border-radius: 50px;
+}
+
 .home .text-wrapper-16 {
   position: absolute;
   top: 9px;
@@ -2249,6 +2260,14 @@
 .home .overlap-17 {
   position: relative;
   height: 56px;
+}
+
+.home .overlap-17:hover {
+  position: relative;
+  height: 56px;
+  color: white;
+  background-color: #03d182;
+  border-radius: 50px;
 }
 
 .home .text-wrapper-64 {
